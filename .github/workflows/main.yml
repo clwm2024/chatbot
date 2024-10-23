@@ -1,4 +1,6 @@
 on:
+  workflow_dispatch:  # Manuelles Auslösen des Workflows
+
   push:
     branches:
       - master
