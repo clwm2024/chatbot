@@ -113,7 +113,7 @@ platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_17
 posthog==3.7.0
 prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1727341649933/work
 propcache==0.2.0
-protobuf>=3.19.5,<6.0.0
+protobuf>=3.20,<6
 psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1728965164785/work
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1721585709575/work
