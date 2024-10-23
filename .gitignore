@@ -1,0 +1,7 @@
+.env
+chroma_*
+chroma
+.DS_Store
+create_database.py
+create_database.py
+settings.env
