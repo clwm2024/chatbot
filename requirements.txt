@@ -6,3 +6,4 @@ pypdf==4.2.0
 pycryptodome==3.20.0
 unstructured
 unstructured[pdf]
+sqlite3>= 3.35.0
