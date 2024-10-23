@@ -13,13 +13,13 @@ import streamlit as st
 
 
 PROMPT_TEMPLATE = """
-Answer the question based only on the following context:
+Beantworte die Frage im folgenden Kontext:
 
 {context}
 
 ---
 
-Answer the question based on the above context: {question}
+Beantworte die Frage anhand des obenstehenden Kontexts: {question}
 """
 
 # Lade die Umgebungsvariablen
